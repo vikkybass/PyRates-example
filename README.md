@@ -7,7 +7,7 @@ As part of the workshop we were to create a notebook that will be used for our r
 
 This are the workflow
 
-# PyRates-example
+# PyRates-Reproducibility
 
 This is the repository that was created on June 4, 2024 as part of the [PyRates Workshop](https://linked.earth/FROGS) in Marina del Rey.
 
