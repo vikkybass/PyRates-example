@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/810518071.svg)](https://zenodo.org/doi/10.5281/zenodo.11508498) 
+
 # PyRates-example
 
 This is the repository that was created on June 4, 2024 as part of the [PyRates Workshop](https://linked.earth/FROGS) in Marina del Rey.
